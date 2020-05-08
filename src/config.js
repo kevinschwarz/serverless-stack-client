@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_NoIlHtryp0hBHMPNU950K49100no3VChB8",
   s3: {
     REGION: "us-east-2",
     BUCKET: "notes-app-uploads-kevin-schwarz"
